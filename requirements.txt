@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+chromadb
+datasets
+pandas
+athina
+rank_bm25
+google-generativeai
